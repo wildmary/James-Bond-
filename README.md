@@ -8,10 +8,15 @@ We took locations and travelling orders mainly from the English Wikipedia articl
 
 # Colours and markers explained
 Many stories begin at MI6 in London - it is marked red with a star and is the only large marker.
+
 When the story begins somewhere else, the first marker is coloured a bit darker and is star-stroked if it doesn't hold some important iformation.
-The marker is coloured a bit lighter if it is not determined where exactly the action takes place (like in Tomorrow never dies where JB is introduced "somewhere near the Russian border")
+
+The marker is coloured a bit lighter if it is not determined where exactly the action takes place (like in Tomorrow never dies where JB is introduced "somewhere near the Russian border").
+
 The places where the main battle took place are markered "danger".
+
 Markers often show how JB got there: by plane, helicopter or railway.
+
 Each marker when clicked shows the information about the location or the main action which took place here plus the name of the movie. Each like also shows the name of the movie.
 
 # Conclusions
