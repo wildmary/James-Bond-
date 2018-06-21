@@ -12,6 +12,7 @@ When the story begins somewhere else, the first marker is coloured a bit darker 
 The marker is coloured a bit lighter if it is not determined where exactly the action takes place (like in Tomorrow never dies where JB is introduced "somewhere near the Russian border")
 The places where the main battle took place are markered "danger".
 Markers often show how JB got there: by plane, helicopter or railway.
+Each marker when clicked shows the information about the location or the main action which took place here plus the name of the movie. Each like also shows the name of the movie.
 
 # Conclusions
 Looking at the overall map which shows routes from all 24 films, we can tell a few things.
