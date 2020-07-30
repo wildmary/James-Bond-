@@ -17,7 +17,7 @@ The places where the main battle took place are markered "danger".
 
 Markers often show how JB got there: by plane, helicopter or railway.
 
-Each marker when clicked shows the information about the location or the main action which took place here plus the name of the movie. Each like also shows the name of the movie.
+Each marker when clicked shows the information about the location or the main action which took place here plus the name of the movie. Each link also shows the name of the movie.
 
 # Conclusions
 Looking at the overall map which shows routes from all 24 films, we can tell a few things.
